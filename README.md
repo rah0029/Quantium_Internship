@@ -31,8 +31,8 @@ Result: Suggested seasonal and targeted promotional strategies for affluent demo
 This internship project provided hands-on experience in data preparation, experimentation, and data-driven strategy formulation for the retail sector. The insights gained contributed to actionable recommendations, reinforcing the importance of targeted marketing and layout optimization to improve customer engagement and sales performance.
 
 ## Technologies Used
-Languages: Python
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
-Tools: Jupyter Notebook, Git
+- Languages: Python
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn
+- Tools: Jupyter Notebook, Git
 
 

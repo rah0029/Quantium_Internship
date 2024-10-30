@@ -8,7 +8,7 @@ The objective of this internship was to analyze customer purchasing behaviors an
 ### Task 1: Data Preparation and Customer Analytics
 Objective: Understand customer purchasing behaviors and segment customers based on their purchasing tendencies.
 
--Conducted high-level data cleaning and feature engineering, including identifying outliers and ensuring consistent data formats.
+- Conducted high-level data cleaning and feature engineering, including identifying outliers and ensuring consistent data formats.
 - Derived additional insights, such as product brand and pack size, to enhance the understanding of purchasing drivers.
 - Analyzed customer segments to identify purchasing patterns, focusing on high-value segments like young families and retirees.
 Result: Provided actionable insights on customer demographics and purchasing trends to guide strategic marketing and promotions.
@@ -27,7 +27,12 @@ Objective: Summarize key findings for the Chips category and offer strategic rec
 - Analyzed the effect of affluence on purchasing behavior, highlighting the popularity of larger pack sizes and premium brands among affluent customers.
 Result: Suggested seasonal and targeted promotional strategies for affluent demographics and premium products to optimize revenue potential.
 
+## Conclusion
+This internship project provided hands-on experience in data preparation, experimentation, and data-driven strategy formulation for the retail sector. The insights gained contributed to actionable recommendations, reinforcing the importance of targeted marketing and layout optimization to improve customer engagement and sales performance.
+
 ## Technologies Used
 Languages: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 Tools: Jupyter Notebook, Git
+
+
